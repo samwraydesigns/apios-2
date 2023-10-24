@@ -1,0 +1,6 @@
+.vscode
+build
+node_modules
+src/pages/audit/**/*
+tailwind.preset.karndeanB2C.js
+vite.config.js
